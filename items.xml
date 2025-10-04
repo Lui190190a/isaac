@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+     Atualizando description para explicar a mecânica do item 
+    <active id="733" name="Devil's Coin" description="66% fail chance, reduced by negative luck. Duplicates or removes all pickups" gfx="collectibles_devilscoin.png" maxcharges="4" chargetype="normal" quality="3" tags="devilpool" />
+</items>
